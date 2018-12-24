@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Smart Parking</string>
+    <string name="textview">TextView</string>
+    <string name="choose_a_city">Choose a city</string>
+
+    <string-array name="city_array">
+        <item>İstanbul</item>
+        <item>Muğla</item>
+        <item>İzmir</item>
+
+
+    </string-array>
+
+    <string-array name="istanbul">
+        <item>Kadıköy</item>
+        <item>Beşiktaş</item>
+        <item>Taksim</item>
+
+    </string-array>
+
+    <string-array name="mugla">
+        <item>Menteşe</item>
+        <item>Fethiye</item>
+        <item>Bodrum</item>
+        <item>Marmaris</item>
+
+
+    </string-array>
+
+    <string-array name="izmir">
+        <item>Karşıyaka</item>
+        <item>Göztepe</item>
+        <item>Çeşme</item>
+
+    </string-array>
+
+
 </resources>
