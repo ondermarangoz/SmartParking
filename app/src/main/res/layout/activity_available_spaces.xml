@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".AvailableSpacesActivity">
 
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher_car_round"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="32dp" />
 </android.support.constraint.ConstraintLayout>

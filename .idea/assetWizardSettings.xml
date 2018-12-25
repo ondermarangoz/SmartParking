@@ -23,7 +23,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="199" />
+                                                <entry key="scalingPercent" value="51" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -33,10 +33,13 @@
                                   </option>
                                   <option name="values">
                                     <map>
+                                      <entry key="backgroundAssetType" value="COLOR" />
+                                      <entry key="backgroundColor" value="ffffff" />
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="$USER_HOME$/Desktop/onder2.jpg" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_foreground_main2" />
-                                      <entry key="outputName" value="ic_launcher_main2" />
+                                      <entry key="foregroundImage" value="$USER_HOME$/Desktop/GUI/sedan-car-model.png" />
+                                      <entry key="foregroundLayerName" value="ic_launcher_foreground_car" />
+                                      <entry key="outputName" value="ic_launcher_car" />
+                                      <entry key="previewDensity" value="HIGH" />
                                     </map>
                                   </option>
                                 </PersistentState>
