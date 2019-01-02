@@ -36,9 +36,9 @@
                                       <entry key="backgroundAssetType" value="COLOR" />
                                       <entry key="backgroundColor" value="ffffff" />
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="$USER_HOME$/Desktop/GUI/sedan-car-model.png" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_foreground_car" />
-                                      <entry key="outputName" value="ic_launcher_car" />
+                                      <entry key="foregroundImage" value="$USER_HOME$/Desktop/GUI/info.png" />
+                                      <entry key="foregroundLayerName" value="ic_launcher_foreground_info" />
+                                      <entry key="outputName" value="ic_launcher_info" />
                                       <entry key="previewDensity" value="HIGH" />
                                     </map>
                                   </option>

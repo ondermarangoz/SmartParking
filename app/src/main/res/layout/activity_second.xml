@@ -12,7 +12,9 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:text="Choose a city:"
+        android:textColor="@android:color/black"
         android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Spinner
@@ -29,7 +31,9 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:text="Choose a county:"
+        android:textColor="@android:color/black"
         android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@+id/spCity" />
 
     <Spinner
@@ -45,7 +49,9 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:text="Choose a place:"
+        android:textColor="@android:color/black"
         android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@+id/spCounty" />
 
     <Spinner
@@ -61,12 +67,12 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="60dp"
-        android:layout_marginTop="120dp"
         android:layout_marginEnd="60dp"
+        android:layout_marginBottom="32dp"
         android:background="@drawable/button_color"
         android:text="Continue"
         android:textColor="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/spMall" />
+        app:layout_constraintStart_toStartOf="parent" />
 </android.support.constraint.ConstraintLayout>

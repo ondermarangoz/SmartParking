@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".SecondActivity" />
-        <activity android:name=".AvailableSpacesActivity"></activity>
+        <activity android:name=".AvailableSpacesActivity" />
+        <activity android:name=".MapActivity"></activity>
     </application>
 
 </manifest>
