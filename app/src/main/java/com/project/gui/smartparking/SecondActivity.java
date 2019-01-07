@@ -66,7 +66,7 @@ public class SecondActivity extends Activity {
         btnContinue.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(SecondActivity.this,AvailableSpacesActivity.class);
+                Intent intent = new Intent(SecondActivity.this,AvailableSpacesActivity.class).putExtra("place",placeSpinner.getSelectedItem().toString());
                 startActivity(intent);
             }
         });
